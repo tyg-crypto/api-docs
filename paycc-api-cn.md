@@ -47,7 +47,7 @@
 
 API 使用步骤：
 
-1. 请在 [https://customer.paycc.com/](https://customer.paycc.com/) 注册机构账户，如果访问不了请提供你的IP地址。
+1. 请在 [https://paycc.biz/](https://paycc.biz/) 注册机构账户，如果访问不了请提供你的IP地址。
 2. 我们审核通过后，机构才可以登录成功。
 3. 机构登录，查看钱包地址，给钱包充值，支持 USDT、BTC、ETH 等。
 4. 机构登录，创建 Appkey 和 secret，可选择配置 webhook 回调地址。
@@ -60,13 +60,13 @@ API 使用步骤：
 
 机构 Dashboard :
 
-* 测试环境（有IP白名单限制）: https://customer-sandbox.paycc.com/
-* 生产环境（有IP白名单限制）: https://customer.paycc.com/
+* 测试环境（有IP白名单限制）: https://customer-sandbox.paycc.biz/
+* 生产环境（有IP白名单限制）: https://customer.paycc.biz/
 
 API 域名：
 
-* 测试环境: https://api-sandbox.paycc.com/
-* 生产环境: https://api.paycc.com/
+* 测试环境: https://api-sandbox.paycc.biz/
+* 生产环境: https://api.paycc.biz/
 
 ## 接口规范
 
