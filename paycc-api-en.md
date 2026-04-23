@@ -45,7 +45,7 @@ Welcome to the Paycc API documentation. This document is for Paycc's ToB card bu
 
 API Usage Steps:
 
-1. Please register an institution account at [https://customer.paycc.com/](https://customer.paycc.com/). If you cannot access it, please provide your IP address.
+1. Please register an institution account at [https://customer.paycc.biz/](https://customer.paycc.biz/). If you cannot access it, please provide your IP address.
 2. After our review and approval, the institution can log in successfully.
 3. Institution logs in, checks the wallet address, and deposits to the wallet, supporting USDT, BTC, ETH, etc.
 4. Institution logs in, creates Appkey and secret, and can optionally configure a webhook callback address.
@@ -58,13 +58,13 @@ API Usage Steps:
 
 Institution Dashboard:
 
-* Test Environment (IP whitelist restricted): https://customer-sandbox.paycc.com/
-* Production Environment (IP whitelist restricted): https://customer.paycc.com/
+* Test Environment (IP whitelist restricted): https://customer-sandbox.paycc.biz/
+* Production Environment (IP whitelist restricted): https://customer.paycc.biz/
 
 API Domains:
 
-* Test Environment: https://api-sandbox.paycc.com/
-* Production Environment: https://api.paycc.com/
+* Test Environment: https://api-sandbox.paycc.biz/
+* Production Environment: https://api.paycc.biz/
 
 ## Interface Specifications
 
